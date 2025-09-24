@@ -5,7 +5,7 @@ git commit -m "message"
 git rm filename
 git restore filename
 19 git commit -m "adding txt file"
-  20 git status
+  20 git statusgit 
   22 git status
   23 git remote -v
   24 git remote set-url origin
@@ -16,3 +16,5 @@ git restore filename
   29 git commit -m "Adding one more line"
   30 git status
   31 git push origin master
+
+  Git testing 
